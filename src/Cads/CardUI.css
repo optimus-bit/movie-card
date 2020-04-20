@@ -1,0 +1,19 @@
+body{
+    background-color:blue;
+}
+
+h4{
+    color: blue;
+}
+
+.card{
+    width: 100rem;
+}
+
+.card-hover{
+    box-shadow: 5px 10px 20px 1px rgba(red, green, blue, alpha)!important;
+}
+
+.card-body{
+    padding:3rem 0; 
+}
